@@ -1,0 +1,1 @@
+# Pick2Play Releases`n`nOfficial APK and Android App Bundle downloads for Pick2Play. Source code is maintained separately in a private repository.`n
