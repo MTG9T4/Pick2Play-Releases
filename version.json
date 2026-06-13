@@ -1,5 +1,5 @@
 {
-  "version": "4.0.3",
-  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.3/Pick2Play.apk",
-  "body": "### Pick2Play 4.0.3\n- Downloads updates inside Pick2Play with live progress\n- Opens Android's package installer directly after download\n- Guides users through Android's one-time install-source permission\n- Restricts update downloads to secure Pick2Play GitHub release URLs\n- Stores update files only in private temporary app storage"
+  "version": "4.0.4",
+  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.4/Pick2Play.apk",
+  "body": "### Pick2Play 4.0.4\n- Redesigned the dashboard and library for a cleaner, simpler layout\n- Added smoother interactions, drawer transitions, and winner animations\n- Redesigned every spinning wheel to better match its selected theme\n- Fixed stale or mismatched game cover artwork on wheel segments\n- Improved wheel sharpness on high-resolution Android screens\n- Added reduced-motion accessibility support"
 }
