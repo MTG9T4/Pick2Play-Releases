@@ -1,5 +1,5 @@
 {
-  "version": "4.0.2",
-  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.2/Pick2Play.apk",
-  "body": "### Pick2Play 4.0.2\n- Removed the Smart Backlog home panel and Backlog Only wheel mode\n- Renamed backlog labels to the clearer Unplayed and Finished states\n- Prevented hidden and finished games from entering wheel draws\n- Fixed legacy library ID persistence and corrupted local-storage recovery\n- Hardened profile, library, filter, and history rendering"
+  "version": "4.0.3",
+  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.3/Pick2Play.apk",
+  "body": "### Pick2Play 4.0.3\n- Downloads updates inside Pick2Play with live progress\n- Opens Android's package installer directly after download\n- Guides users through Android's one-time install-source permission\n- Restricts update downloads to secure Pick2Play GitHub release URLs\n- Stores update files only in private temporary app storage"
 }
