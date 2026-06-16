@@ -1,5 +1,5 @@
 {
-  "version": "4.0.6",
-  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.6/Pick2Play.apk",
-  "body": "### Pick2Play 4.0.6\n- Fixes wheel selection counts so every active game appears\n- Improves winner cover art and metadata recovery across platforms\n- Adds manual game entry when a title is missing from search\n- Enriches sparse catalog results and keeps remakes separate from original releases\n- Routes store links according to each game's platform\n- Hardens provider content, image handling, and RAWG settings migration"
+  "version": "4.0.7",
+  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.7/Pick2Play.apk",
+  "body": "Pick2Play 4.0.7 adds a first-class Daylight light theme, expands button audit coverage, and hardens dynamic game detail and tournament rendering.\n\nAlso includes earlier 4.0.x additions: update progress feedback, richer Android release packaging, cloud sync durability checks, offline metadata controls, diagnostics consent, CSV/library tools, and Play Store preparation polish."
 }
