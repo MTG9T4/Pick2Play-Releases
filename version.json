@@ -1,5 +1,5 @@
 {
-  "version": "4.0.9-beta",
-  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.9-beta/Pick2Play.apk",
-  "body": "Pick2Play 4.0.9-beta replaces the standalone Daylight theme with a global, layered Light/Dark Mode toggle system. Now, every environment theme features a unique, gorgeous light-mode variant with smooth timing transitions, custom-shaded raffle wheels, and mode-aware ambient particle adjustments."
+  "version": "4.0.7",
+  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.7/Pick2Play.apk",
+  "body": "Pick2Play 4.0.7 adds a first-class Daylight light theme, expands button audit coverage, and hardens dynamic game detail and tournament rendering.\n\nAlso includes earlier 4.0.x additions: update progress feedback, richer Android release packaging, cloud sync durability checks, offline metadata controls, diagnostics consent, CSV/library tools, and Play Store preparation polish."
 }
