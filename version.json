@@ -1,5 +1,5 @@
 {
-  "version": "4.0.11",
-  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.11/Pick2Play.apk",
-  "body": "Pick2Play 4.0.11 delivers a fully integrated premium animation engine overhaul with delta-time aware particles, layered canvas rendering, and offscreen sprite caching, fixing the layout overlay blocking issue."
+  "version": "4.0.12",
+  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.12/Pick2Play.apk",
+  "body": "Pick2Play 4.0.12 resolves wheel spin inconsistencies and winner selection bugs across all themes by implementing duration-based spin timing (2-5s) with custom eased deceleration curves."
 }
