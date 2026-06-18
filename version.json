@@ -1,5 +1,5 @@
 {
-  "version": "4.0.7",
-  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.7/Pick2Play.apk",
-  "body": "Pick2Play 4.0.7 adds a first-class Daylight light theme, expands button audit coverage, and hardens dynamic game detail and tournament rendering.\n\nAlso includes earlier 4.0.x additions: update progress feedback, richer Android release packaging, cloud sync durability checks, offline metadata controls, diagnostics consent, CSV/library tools, and Play Store preparation polish."
+  "version": "4.0.9",
+  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.9/Pick2Play.apk",
+  "body": "Pick2Play 4.0.9 delivers a complete theme overhaul. Switching environment themes now dynamically swaps the visual style of the entire UI chrome (navigation bars, status bar, cards, inputs, buttons, and bottom sheets), changing fonts, border radii, overlays, and color palettes per theme."
 }
