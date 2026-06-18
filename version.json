@@ -1,5 +1,5 @@
 {
-  "version": "4.1.0-beta.2",
-  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.1.0-beta.2/Pick2Play.apk",
-  "body": "Pick2Play 4.1.0-beta.2 fixes beta wheel rendering issues from the theme and raffle wheel overhaul.\n\nThis beta keeps the all-theme chrome and wheel overhaul, fixes the canvas pointer clipping, enables live idle rim animation while the wheel drawer is open, and hardens theme chrome overrides so Daylight and other legacy theme selectors follow the new variable system."
+  "version": "4.0.10",
+  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.10/Pick2Play.apk",
+  "body": "Pick2Play 4.0.10 delivers centered wheel spin button fixes, aligned client/server version tags, and an overhaul to background ambient animations and winner card celebrations across all 8 environment themes."
 }
