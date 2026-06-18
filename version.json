@@ -1,5 +1,5 @@
 {
-  "version": "4.0.9",
-  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.9/Pick2Play.apk",
-  "body": "Pick2Play 4.0.9 delivers a complete theme overhaul. Switching environment themes now dynamically swaps the visual style of the entire UI chrome (navigation bars, status bar, cards, inputs, buttons, and bottom sheets), changing fonts, border radii, overlays, and color palettes per theme."
+  "version": "4.1.0-beta.1",
+  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.1.0-beta.1/Pick2Play.apk",
+  "body": "Pick2Play 4.1.0-beta.1 is a beta test build for the theme and raffle wheel overhaul.\n\nThis beta expands all eight themes across the app chrome, typography, drawers, navigation, bottom sheets, wheel textures, center caps, themed pointers, animated rim effects, and theme-specific spin physics. Use this build to review visual distinction, animation feel, and mobile wheel performance before a stable release."
 }
