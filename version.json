@@ -1,5 +1,5 @@
 {
-  "version": "4.0.12",
-  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.12/Pick2Play.apk",
-  "body": "Pick2Play 4.0.12 resolves wheel spin inconsistencies and winner selection bugs across all themes by implementing duration-based spin timing (2-5s) with custom eased deceleration curves."
+  "version": "4.0.13",
+  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.13/Pick2Play.apk",
+  "body": "Pick2Play 4.0.13 removes the duplicate in-app Android status bar, stabilizes update prompts, separates light and dark mode from the seven app themes, and adds mode-aware ambient animation palettes so every theme remains visually distinct in both modes."
 }
