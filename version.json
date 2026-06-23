@@ -1,1 +1,5 @@
-{"version":"4.0.14","download_url":"https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.14/Pick2Play.apk","body":"Pick2Play 4.0.14 restores full light-mode theme rendering across scenic backgrounds, ambient particles, and UI chrome. It also adds robust inline icon fallbacks, fixes light-mode close button visibility, and preserves the seven theme identities in both dark and light modes."}
+{
+  "version": "4.0.15",
+  "download_url": "https://github.com/MTG9T4/Pick2Play-Releases/releases/download/v4.0.15/Pick2Play.apk",
+  "body": "Pick2Play 4.0.15 smooths the appearance and environment theme transitions. Theme changes now commit atomically, preloaded backgrounds avoid a visible flash, and supported Android WebViews cross-fade between themes."
+}
